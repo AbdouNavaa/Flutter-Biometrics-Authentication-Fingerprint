@@ -1,0 +1,36 @@
+class AppStrings {
+  static const notes = 'notes';
+  static const addNote = 'add_note';
+  static const editNote = 'edit_note';
+  static const deleteNote = 'delete_note';
+  static const noNotes = 'no_notes';
+  static const noteTitle = 'note_title';
+  static const noteContent = 'note_content';
+  static const save = 'save';
+  static const deleteConfirmation = 'delete_confirmation';
+  static const deleteSuccess = 'delete_success';
+  static const deleteFailure = 'delete_failure';
+  static const saveSuccess = 'save_success';
+  static const saveFailure = 'save_failure';
+  static const noteSaved = 'note_saved';
+  static const noteDeleted = 'note_deleted';
+  static const noteUpdated = 'note_updated';
+  static const noteNotFound = 'note_not_found';
+  static const noteEmpty = 'note_empty';
+  static const noteTitleEmpty = 'note_title_empty';
+  static const noteContentEmpty = 'note_content_empty';
+  static const biometricAuthentication = 'biometric_authentication';
+  static const biometricNotSupported = 'biometric_not_supported';
+  static const noBiometrics = 'no_biometrics';
+  static const authenticateToAccessNotes = 'authenticate_to_access_notes';
+  static const userName = 'username';
+  static const password = 'password';
+  static const login = 'login';
+  static const invalidCredentials = 'invalid_credentials';
+  static const enterCredentials = 'enter_credentials';
+  static const useBiometrics = 'use_biometrics';
+  static const fillAllFields = 'fill_allFields';
+  static const biometricFailed = 'biometric_failed';
+  static const retryBiometric = 'retry_biometric';
+  static const forgotPassword = 'forgot_password';
+}
